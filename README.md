@@ -1,5 +1,16 @@
-# BakingApp
-An Android Baking App that will allow Udacity’s resident baker-in-chief, Miriam, to share her recipes with the world. 
-This is an app that will allow a user to select a recipe and see video-guided steps for how to complete it.
+# JustBakeIt
+This app:
+* Uses Exoplayer to display videos.
+* Handle's error cases in Android.
+* Add's a widget to your app experience.
+* Leverage's multiple third-party library.
+* Uses Fragments to create a responsive design that works on phones and tablets.
 
-Play Store: https://play.google.com/store/apps/details?id=com.udacity.willbrom.bakingapp
+Some libraries this app uses:
+* okhttp3
+* gson
+* butterknife
+* picasso
+* exoplayer
+* SpinKit
+* espresso (for ui testing)
